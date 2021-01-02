@@ -21,7 +21,7 @@ and the global image context to directly output the final set of predictions in 
 ![alt text](https://github.com/MursalinLarik/Analyzing-Facebook-DETR-Transformers-/blob/main/architecture.png)
 <br />
 <br />
-Using this architecture we were able to analyse its performance on several scenarios. The results are as following:
+Using this architecture we were able to analyse its performance on several scenarios. The below are the results for panotic segmentation and object detection using DETR backbone. In panoptic segmentation, it can be observed that how accurately are objects detected and segmented. The results are as following:
 ![alt text](https://github.com/MursalinLarik/Analyzing-Facebook-DETR-Transformers-/blob/main/panoptic1.png)
 ![alt text](https://github.com/MursalinLarik/Analyzing-Facebook-DETR-Transformers-/blob/main/pan2.png)
 ![alt text](https://github.com/MursalinLarik/Analyzing-Facebook-DETR-Transformers-/blob/main/pan3.png)
