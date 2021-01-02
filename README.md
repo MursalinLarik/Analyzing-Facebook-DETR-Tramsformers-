@@ -1,5 +1,6 @@
 # Analyzing-Facebook-DETR-Transformers
-Note: Kinldy note that it is just an experimental mini project. We tried to work with Facebook's newly introduced algorithm DETR. The code and model are mostly Facebook's with small modifications from our side.
+Note: Kindly note that it is just an experimental mini project. We tried to work with Facebook's newly introduced algorithm DETR. The code and model are mostly Facebook's with small modifications from our side.
+<br />
 <br />
 Facebook’s detection transformer (DETR) algorithm uses transformers for the task of object detection. It
 uses Convolutional Neural Network in its initial stages before passing the feature maps to the
